@@ -1,0 +1,28 @@
+.css{
+text-align: left;
+color: black;
+
+}
+
+.form-control{
+background-color: azure;
+}
+
+.ddd{
+
+  padding-top: 50px;
+    width: 650px;
+    height: 500px;
+}
+
+header{
+background-color: darkgrey;
+    padding-top: 10px;
+    padding-left: 15px;
+    color: aliceblue;
+    padding-bottom: 3px;
+}
+
+body{
+    background-color: rgb(217, 236, 155);
+}
